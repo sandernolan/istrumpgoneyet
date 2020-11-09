@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.clock {
+  font-size: 60px;
+  font-size: 10vw;
+  font-family: 'Courier New';
+}
+
+h1 {
+  font-size: 80px;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+}
